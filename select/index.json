@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Grip!",
+  "base_artist": "Every Little Thing",
+  "createdAt": "2026-03-13T00:07:17.788767Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Losing Grip",
+      "artist": "Avril Lavigne",
+      "has_synced": true,
+      "path": "select/01_Losing_Grip_Avril_Lavigne.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Elektro (He Held the World in His Iron Grip)",
+      "artist": "Stereolab",
+      "has_synced": false,
+      "path": "select/02_Elektro_(He_Held_the_World_in_His_Iron_Grip)_Stereolab.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "(Get a) Grip (On Yourself)",
+      "artist": "The Stranglers",
+      "has_synced": false,
+      "path": "select/03_(Get_a)_Grip_(On_Yourself)_The_Stranglers.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "(Get A) Grip (On Yourself)",
+      "artist": "The Stranglers",
+      "has_synced": true,
+      "path": "select/04_(Get_A)_Grip_(On_Yourself)_The_Stranglers.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Cold Grip",
+      "artist": "Bloom",
+      "has_synced": true,
+      "path": "select/05_Cold_Grip_Bloom.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Get A Grip",
+      "artist": "Semisonic",
+      "has_synced": false,
+      "path": "select/06_Get_A_Grip_Semisonic.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Get a Grip",
+      "artist": "Simple Minds",
+      "has_synced": true,
+      "path": "select/07_Get_a_Grip_Simple_Minds.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Get A Grip (Stranglers)",
+      "artist": "Simple Minds",
+      "has_synced": true,
+      "path": "select/08_Get_A_Grip_(Stranglers)_Simple_Minds.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Grip",
+      "artist": "Orphanage",
+      "has_synced": false,
+      "path": "select/09_Grip_Orphanage.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Pistol Grip Pump",
+      "artist": "Rage Against The Machine",
+      "has_synced": true,
+      "path": "select/10_Pistol_Grip_Pump_Rage_Against_The_Machine.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Losing Grip",
+      "artist": "Avril Lavigne",
+      "has_synced": true,
+      "path": "select/11_Losing_Grip_Avril_Lavigne.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Losing Grip",
+      "artist": "Avril Lavigne",
+      "has_synced": true,
+      "path": "select/12_Losing_Grip_Avril_Lavigne.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Losing Grip",
+      "artist": "Avril Lavigne",
+      "has_synced": true,
+      "path": "select/13_Losing_Grip_Avril_Lavigne.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Losing Grip (TV track version)",
+      "artist": "Avril Lavigne",
+      "has_synced": true,
+      "path": "select/14_Losing_Grip_(TV_track_version)_Avril_Lavigne.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Losing Grip (album version)",
+      "artist": "Avril Lavigne",
+      "has_synced": true,
+      "path": "select/15_Losing_Grip_(album_version)_Avril_Lavigne.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Losing Grip (demo)",
+      "artist": "Avril Lavigne",
+      "has_synced": true,
+      "path": "select/16_Losing_Grip_(demo)_Avril_Lavigne.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Grip!",
+      "artist": "Every Little Thing",
+      "has_synced": false,
+      "path": "select/pl_01_Grip!_Every_Little_Thing.txt"
+    }
+  ]
+}
